@@ -1,4 +1,5 @@
 /* 接收紅外線訊號並解碼
+ * 匯入程式庫：http://downloads.arduino.cc/libraries/github.com/z3t0/IRremote-2.2.3.zip
  * 零件：Keyes IR Receiver
  * GND：GND
  * VCC：5V
