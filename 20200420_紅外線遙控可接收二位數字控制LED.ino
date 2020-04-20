@@ -1,3 +1,8 @@
+  
+/* 紅外線遙控可接收二位數字控制LED
+ * 匯入程式庫：http://downloads.arduino.cc/libraries/github.com/z3t0/IRremote-2.2.3.zip
+*/
+
 #include <boarddefs.h>
 #include <IRremote.h>
 #include <IRremoteInt.h>
