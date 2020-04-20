@@ -56,14 +56,14 @@ void loop() {
     }
   }
   
-  if(Key_Array[0]==0xFF6897&&Key_Array[1]==0xFF7A85){
+  if(Key_Array[0]==0xFF6897 && Key_Array[1]==0xFF7A85){
     analogWrite(R,HIGH);
     delay(100);
     analogWrite(R,LOW);
     delay(100);
   }
 
-  if(Key_Array[0]==0xFF42BD&&Key_Array[1]==0xFF4AB5){
+  if(Key_Array[0]==0xFF42BD && Key_Array[1]==0xFF4AB5){
     analogWrite(G,HIGH);
     delay(100);
     analogWrite(G,LOW);
