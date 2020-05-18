@@ -1,4 +1,4 @@
-//¥|­ΣLED«G«ΧΕά¤Ζ³ζΏO¥k²ΎΉκ²ί
+//ε››ε€‹LEDδΊ®εΊ¦θ®ε–ε–®η‡ε³η§»ε―¦ηΏ’
 const int led[]={3,9,10,11};
 int brightness=0;
 int lighten=5;
