@@ -1,4 +1,4 @@
-//«Bºw¿O¹ê²ß
+//é›¨æ»´ç‡ˆå¯¦ç¿’
 const int led[]={3,9,10,11};
 int varNums;
 int ledNums;
